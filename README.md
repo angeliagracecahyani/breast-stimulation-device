@@ -11,3 +11,7 @@ The ESP32 program code is available at:
 
 
 The device interface application can be accessed at:
+
+https://github.com/angeliagracecahyani/breast-stimulation-device/blob/main/ESP32Bluetooth.aab
+
+https://github.com/angeliagracecahyani/breast-stimulation-device/blob/main/ESP32Bluetooth.aia
