@@ -3,6 +3,9 @@ This repository contains the design file summary of the breast engorgement proje
 
 The schematic design and PCB files can be accessed at:
 
+https://github.com/angeliagracecahyani/breast-stimulation-device/blob/main/Projek%202.kicad_sch
+
+https://github.com/angeliagracecahyani/breast-stimulation-device/blob/main/Projek%202.kicad_pcb
 
 The ESP32 program code is available at:
 
